@@ -20,6 +20,24 @@
 
 ---
 
+## 🐾 Популярні приклади brainrot-петів
+| Рідкість   | Ім'я             | Примітка                        |
+|------------|-----------------|--------------------------------|
+| Common     | Pipi Kiwi        | Фруктова істота                |
+| Common     | Sushi Cat        | Котик-рол                      |
+| Rare       | Tralalero        | Трилегий химерний персонаж     |
+| Rare       | Bombardiro       | Крокодил-бомбардувальник       |
+| Epic       | Drip Master      | Стильний персонаж              |
+| Epic       | Sigma Male       | Meme персонаж                  |
+| Legendary  | Ultradrip        | Енергетичний герой             |
+| Legendary  | Supreme Ruler    | Boss-тип                       |
+| Secret     | Cosmic Brainrot  | Космічний персонаж             |
+| Secret     | The Final Meme   | Ультра-секретний               |
+
+> **Примітка:** це лише приклади. Можеш додавати свої моделі, вказуючи атрибут `Rarity` для спавну та балансу гри.
+
+---
+
 ## 🗂️ Як запустити
 1. Скачай `.rbxlx` файл з репозиторію.  
 2. Відкрий Roblox Studio → **File → Open → Brainrot_Hunt_Prototype.rbxlx**.  
